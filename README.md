@@ -16,5 +16,5 @@ BuildForge is a responsive construction and architecture business website built 
 ## Live Website
 * [Visit BuildForge](https://buildforge.obehiinnovatives.com.ng/)
 
-## 👤 Author
+## Author
 **Obehi Isabella Okohue** — Frontend Developer
